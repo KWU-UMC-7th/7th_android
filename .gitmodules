@@ -1,0 +1,3 @@
+[submodule "week02/mission"]
+	path = week02/mission
+	url = https://github.com/wjlee611/UMC7_android.git
