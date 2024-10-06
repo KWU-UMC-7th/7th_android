@@ -1,0 +1,34 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_bell
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_line
+drawable ic_ment
+drawable ic_postbox
+drawable icon_pt
+id bell_IV
+id bottom_navigation_view
+id bubble_IV
+id homeFragment
+id line_IV
+id lockerFragment
+id lookFragment
+id main
+id ment_TV
+id postbox_IV
+id searchFragment
+id textView
+id today_TV
+layout activity_main
+layout activity_splash
+menu main_nav
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme._2nd_Mission
+style Theme._2nd_Mission
+xml backup_rules
+xml data_extraction_rules
