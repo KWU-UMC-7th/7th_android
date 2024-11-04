@@ -1,5 +1,5 @@
-[submodule "mission"]
-	path = mission
+[submodule "week05/mission"]
+	path = week05/mission
 	url = https://github.com/wjlee611/UMC7_android.git
 [submodule "week04/mission"]
 	path = week04/mission
