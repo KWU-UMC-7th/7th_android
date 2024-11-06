@@ -63,5 +63,5 @@
   : TabLayout이나 Dots Indicator와 같은 컴포넌트를 사용
 
 ## 📂실습 인증
-강의 섹션 3까지 진행  
+강의 섹션 4까지 진행 
 [Github](https://github.com/MunJeongEun/practice-7th-android.git)
